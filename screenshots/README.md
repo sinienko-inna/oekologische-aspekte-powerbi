@@ -60,12 +60,6 @@ Zwei Visuals mit Tabellen aus Teil I/II (energy-charts.info, CO₂-Preis). Keine
 |---|---|
 | [`8_Ziel_Ergebnisse.png`](8_Ziel_Ergebnisse.png) | KPI-Dashboard: THG-Reduktion vs. 1990 (−47 % / −52 % / −65 %), Anteil EE, Atomausstieg, CO₂-Preis vs. 2010; Tabelle EU-/DE-Maßnahmen |
 
-## Seite 9 — Indexdynamik
-
-| Datei | Inhalt |
-|---|---|
-| [`9_Dynamik.png`](9_Dynamik.png) | THG-, Endenergieverbrauch- und Verbraucherpreisindex gegenüber dem Basisjahr (ca. 2000–2024): THG sinkt, EEV bleibt nah an 100, Preise steigen |
-
 ## Datenmodell
 
 | Datei | Inhalt |
