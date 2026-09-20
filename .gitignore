@@ -1,0 +1,14 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Power BI / Office temporäre Dateien
+~$*
+*.tmp
+*.pbix.bak
+
+# Nicht ins Portfolio
+Christian/
+**/PBI_Data_Master.csv
+**/*.ipynb_checkpoints/
