@@ -4,7 +4,11 @@ Power-BI-Bericht als **Teil III** eines Team-Abschlussprojekts im Kurs Data Anal
 
 **Thema des Teams:** **Die Energiewende in Deutschland: wirtschaftliche, strukturelle und ökologische Aspekte**.
 
-**Meine Rolle:** Konzeption, Datenmodell, Power Query, DAX und Visualisierung des ökologischen Teils. Der Bericht (`.pbix`) ist vollständig von mir erstellt. Einzelne Tabellen anderer Teamteile wurden nur geladen, um Zusammenhänge zu zeigen.
+**Meine Rolle:** Konzeption, Datenmodell, Power Query, DAX und Visualisierung des ökologischen Teils. Der Bericht (`.pbix`) ist vollständig von mir erstellt. Einzelne **Tabellen** anderer Teamteile wurden nur geladen, um Zusammenhänge zu zeigen. Die Grafiken dazu (Seite 7) habe ich selbst gebaut.
+
+![Treibhausgasemissionen nach Regionen](screenshots/1_Weltsituation.png)
+
+![KPI-Dashboard: Ziele und Ergebnisse](screenshots/8_Ziel_Ergebnisse.png)
 
 ## Bericht öffnen
 
@@ -26,7 +30,7 @@ Star Schema: Fakten zu THG, Bevölkerung und BIP; Dimensionen Land, Sektor, Subs
 
 **Eigene Daten:** Bevölkerung (OWID), BIP Deutschland (Statista), THG nach Ländern und Wirtschaftssektoren (EDGAR), Ziel-KPI und politische Maßnahmen (EU vs. Deutschland, selbst zusammengestellt).
 
-**Teamdaten nur als Schnittstelle** (im Modell rot markiert): siehe [data/team-context/README.md](data/team-context/README.md). Zwei Visuals verbinden CO₂-Preis / fossile Stromerzeugung mit meinen Sektordaten.
+**Teamdaten nur als Schnittstelle** (im Modell rot markiert): siehe [data/team-context/README.md](data/team-context/README.md). Zwei Visuals **von mir** verbinden CO₂-Preis / fossile Stromerzeugung mit meinen Sektordaten.
 
 ## Quellen
 
